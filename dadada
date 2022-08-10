@@ -1,0 +1,105 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@OscarBastiasPalma 
+OscarBastiasPalma
+/
+PROGRAMACION-DE-ALGORITMOS_004V
+Public
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Settings
+PROGRAMACION-DE-ALGORITMOS_004V
+/
+Name your file…
+in
+master
+ 
+# # # num = 3
+# # # sq = 2
+# # # val = 7
+# # # pos = 16
+# # # a = []
+# # # for i in range(5):
+# # #     n = i + pos
+# # #     form = num*n**sq+val
+# # #     a.append(form)
+# # #     print(f"a({n}) = {a[i]}")
+print("************************************************")
+
+# num = 5
+# sq = 3
+# val = 0
+# pos = 1
+# a = []
+# for i in range(4):
+#     n = i + pos
+#     form = num*n**sq+val
+#     a.append(form)
+#     print(f"a({n}) = {a[i]}")
+
+
+# print("************************************************")
+
+# num = 5
+# sq = 3
+# val = 0
+# pos = 9
+# b = 0
+# a = []
+# x = 40000
+# for i in range(4):
+#     n = i + pos
+#     form = num*n**sq+val
+#     a.append(form)
+#     print(f"a({n}) = {a[i]}")
+
+print("************************************************")
+num = 5
+sq = 3
+val = 0
+pos = 9
+b = 0
+y = 0
+a = []
+x = 40000
+while b == x:
+    form = num*b**sq+val
+    if b == x:
+        y.append(form)
+        print(y)
+    b +=1
+    
+    
+@OscarBastiasPalma
+Commit new file
+Commit summary
+mateaplicada
+Optional extended description
+dadadadada
+ Commit directly to the master branch.
+ Create a new branch for this commit and start a pull request. Learn more about pull requests.
+ 
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
